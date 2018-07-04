@@ -149,14 +149,14 @@
       ]
     },
     {
-      "page_url": "http://blank.local/competitioncompetition-testing/",
+      "page_url": "http://blank.local/competition/competition-testing/",
       "alternates": [
         {
-          "href": "http://blank.local/competitioncompetition-testing/",
+          "href": "http://blank.local/competition/competition-testing/",
           "hreflang": "en-GB"
         },
         {
-          "href": "http://blank.local/es/es/competitioncompetition-testing/",
+          "href": "http://blank.local/es/es/competition/competition-testing/",
           "hreflang": "es-ES"
         },
         {
