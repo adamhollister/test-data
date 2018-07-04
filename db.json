@@ -1,35 +1,35 @@
 {
   "pages": [
     {
-      "page_url": "http://example.com",
+      "page_url": "http://blank.local",
       "alternates": [
         {
-          "href": "http://example.com",
+          "href": "http://blank.local",
           "hreflang": "en-GB"
         },
         {
-          "href": "http://example.com/es/es",
+          "href": "http://blank.local/es/es",
           "hreflang": "es-ES"
         },
         {
-          "href": "http://example.com/it/it",
+          "href": "http://blank.local/it/it",
           "hreflang": "it-IT"
         }
       ]
     },
 		{
-      "page_url": "http://example.com/test",
+      "page_url": "http://blank.local/test",
       "alternates": [
         {
-          "href": "http://example.com/test",
+          "href": "http://blank.local/test",
           "hreflang": "en-GB"
         },
         {
-          "href": "http://example.com/es/es/test",
+          "href": "http://blank.local/es/es/test",
           "hreflang": "es-ES"
         },
         {
-          "href": "http://example.com/it/it/test",
+          "href": "http://blank.local/it/it/test",
           "hreflang": "it-IT"
         }
       ]
