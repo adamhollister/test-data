@@ -126,6 +126,48 @@
           "hreflang": "fr-BE"
         }
       ]
+    },
+    {
+      "page_url": "http://blank.local/competitions",
+      "alternates": [
+        {
+          "href": "http://blank.local/competitions",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/competitions",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/competitions",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/competitions",
+          "hreflang": "fr-BE"
+        }
+      ]
+    },
+    {
+      "page_url": "http://blank.local/competitioncompetition-testing/",
+      "alternates": [
+        {
+          "href": "http://blank.local/competitioncompetition-testing/",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/competitioncompetition-testing/",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/competition/competition-testing/",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/competition/competition-testing/",
+          "hreflang": "fr-BE"
+        }
+      ]
     }
   ]
 }
