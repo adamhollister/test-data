@@ -1,3 +1,4 @@
+
 {
   "pages": [
     {
@@ -14,10 +15,14 @@
         {
           "href": "http://blank.local/it/it",
           "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be",
+          "hreflang": "fr-BE"
         }
       ]
     },
-		{
+    {
       "page_url": "http://blank.local/test",
       "alternates": [
         {
@@ -31,6 +36,73 @@
         {
           "href": "http://blank.local/it/it/test",
           "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/test",
+          "hreflang": "fr-BE"
+        }
+      ]
+    },
+    {
+      "page_url": "http://blank.local/test-two",
+      "alternates": [
+        {
+          "href": "http://blank.local/test-two",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/test-two",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/test-two",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/test-two",
+          "hreflang": "fr-BE"
+        }
+      ]
+    },
+    {
+      "page_url": "http://blank.local/testing",
+      "alternates": [
+        {
+          "href": "http://blank.local/testing",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/testing",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/testing",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/testing",
+          "hreflang": "fr-BE"
+        }
+      ]
+    },
+    {
+      "page_url": "http://blank.local/testing/test-three",
+      "alternates": [
+        {
+          "href": "http://blank.local/testing/test-three",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/testing/test-three",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/testing/test-three",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/testing/test-three",
+          "hreflang": "fr-BE"
         }
       ]
     }
