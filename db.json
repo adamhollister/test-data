@@ -105,6 +105,27 @@
           "hreflang": "fr-BE"
         }
       ]
+    },
+    {
+      "page_url": "http://blank.local/posts",
+      "alternates": [
+        {
+          "href": "http://blank.local/posts",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/posts",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/posts",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/posts",
+          "hreflang": "fr-BE"
+        }
+      ]
     }
   ]
 }
