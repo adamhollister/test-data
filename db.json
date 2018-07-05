@@ -189,6 +189,48 @@
           "hreflang": "fr-BE"
         }
       ]
+    },
+    {
+      "page_url": "http://blank.local/campaign/another-campaign/",
+      "alternates": [
+        {
+          "href": "http://blank.local/campaign/another-campaign/",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/campaign/another-campaign/",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/campaign/another-campaign/",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/campaign/another-campaign/",
+          "hreflang": "fr-BE"
+        }
+      ]
+    },
+    {
+      "page_url": "http://blank.local/campaign/here-is-a-test-campaign/",
+      "alternates": [
+        {
+          "href": "http://blank.local/campaign/here-is-a-test-campaign/",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/campaign/here-is-a-test-campaign/",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/campaign/here-is-a-test-campaign/",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/campaign/here-is-a-test-campaign/",
+          "hreflang": "fr-BE"
+        }
+      ]
     }
   ]
 }
