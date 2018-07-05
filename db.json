@@ -191,6 +191,27 @@
       ]
     },
     {
+      "page_url": "http://blank.local/campaign/",
+      "alternates": [
+        {
+          "href": "http://blank.local/campaign/",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/campaign/",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/campaign/",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/campaign/",
+          "hreflang": "fr-BE"
+        }
+      ]
+    },
+    {
       "page_url": "http://blank.local/campaign/another-campaign/",
       "alternates": [
         {
