@@ -168,6 +168,27 @@
           "hreflang": "fr-BE"
         }
       ]
+    },
+    {
+      "page_url": "http://blank.local/competition/competition-1/",
+      "alternates": [
+        {
+          "href": "http://blank.local/competition/competition-1/",
+          "hreflang": "en-GB"
+        },
+        {
+          "href": "http://blank.local/es/es/competition/competition-1/",
+          "hreflang": "es-ES"
+        },
+        {
+          "href": "http://blank.local/it/it/competition/competition-1/",
+          "hreflang": "it-IT"
+        },
+        {
+          "href": "http://blank.local/fr/be/competition/competition-1/",
+          "hreflang": "fr-BE"
+        }
+      ]
     }
   ]
 }
